@@ -9,7 +9,7 @@ import (
 	"text/template"
 	"time"
 
-	"https://github.com/buskari/go-simple-api/client"
+	"github.com/buskari/go-simple-api/client"
 	"github.com/joho/godotenv"
 )
 
